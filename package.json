@@ -1,6 +1,7 @@
 {
   "name": "ibrahim-memon-portfolio",
   "source": "src/index.html",
+  "license": "unlicense",
   "scripts": {
     "start": "parcel",
     "build": "parcel build src/index.html"
