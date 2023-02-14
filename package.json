@@ -6,20 +6,10 @@
     "build": "parcel build src/index.html"
   },
   "devDependencies": {
-    "@babel/core": "^7.20.12",
-    "@babel/preset-env": "^7.20.2",
-    "@babel/preset-react": "^7.18.6",
     "@parcel/transformer-sass": "^2.8.3",
-    "babel-loader": "^9.1.2",
-    "babel-plugin-transform-scss": "^1.1.0",
-    "babel-preset-react-app": "^10.0.1",
     "parcel": "^2.8.3",
-    "path": "^0.12.7",
     "process": "^0.11.10",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "sass": "^1.58.1",
-    "webpack": "^5.75.0"
-  },
-  "dependencies": {}
+    "react-dom": "^18.2.0"
+  }
 }

@@ -27535,8 +27535,8 @@ module.exports = require("17ff38c0b588eb8a");
 })();
 
 },{"a9b14dea6bb71d62":"21dqq"}],"logQ0":[function(require,module,exports) {
-module.exports["topbar"] = `Q8ocba_topbar`;
 module.exports["container"] = `Q8ocba_container`;
+module.exports["topbar"] = `Q8ocba_topbar`;
 
 },{}],"iHj79":[function(require,module,exports) {
 var $parcel$ReactRefreshHelpers$8f30 = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
@@ -27711,13 +27711,13 @@ $RefreshReg$(_c, "Presentation");
   window.$RefreshSig$ = prevRefreshSig;
 }
 },{"./container1.module.scss":"32xUX","../../public/Me.png":"hIyEG","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","react/jsx-dev-runtime":"iTorj"}],"32xUX":[function(require,module,exports) {
+module.exports["text2"] = `_TxZOq_text2`;
 module.exports["text4"] = `_TxZOq_text4`;
-module.exports["image"] = `_TxZOq_image`;
-module.exports["text"] = `_TxZOq_text`;
+module.exports["text1"] = `_TxZOq_text1`;
 module.exports["container"] = `_TxZOq_container`;
 module.exports["text3"] = `_TxZOq_text3`;
-module.exports["text1"] = `_TxZOq_text1`;
-module.exports["text2"] = `_TxZOq_text2`;
+module.exports["image"] = `_TxZOq_image`;
+module.exports["text"] = `_TxZOq_text`;
 
 },{}],"hIyEG":[function(require,module,exports) {
 module.exports = require("7b38016fead54ef").getBundleURL("byUka") + "Me.5c9ea806.png" + "?" + Date.now();
@@ -27856,10 +27856,10 @@ $RefreshReg$(_c, "About");
 },{"./container2.module.scss":"lh1oV","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","react/jsx-dev-runtime":"iTorj"}],"lh1oV":[function(require,module,exports) {
 module.exports["animacaoCursorTexto"] = `XNzKQa_animacaoCursorTexto`;
 module.exports["animacaoCursorTexto"];
-module.exports["about"] = `XNzKQa_about`;
-module.exports["icon"] = `XNzKQa_icon`;
 module.exports["textoDigitado"] = `XNzKQa_textoDigitado`;
+module.exports["about"] = `XNzKQa_about`;
 module.exports["facebook"] = `XNzKQa_facebook`;
+module.exports["icon"] = `XNzKQa_icon`;
 
 },{}],"1yItz":[function(require,module,exports) {
 var $parcel$ReactRefreshHelpers$2231 = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
@@ -28134,9 +28134,9 @@ $RefreshReg$(_c, "Experience");
   window.$RefreshSig$ = prevRefreshSig;
 }
 },{"./container3.module.scss":"7W6qo","../../public/Experience1.png":"jqV60","../../public/Experience2.png":"eByyr","../../public/Experience3.png":"kcyr9","../../public/Experience4.png":"gdL2Q","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","react/jsx-dev-runtime":"iTorj"}],"7W6qo":[function(require,module,exports) {
-module.exports["card"] = `zQRM-G_card`;
 module.exports["text"] = `zQRM-G_text`;
 module.exports["workExperience"] = `zQRM-G_workExperience`;
+module.exports["card"] = `zQRM-G_card`;
 
 },{}],"jqV60":[function(require,module,exports) {
 module.exports = require("2e57f571c88caacb").getBundleURL("byUka") + "Experience1.adf506ac.png" + "?" + Date.now();
@@ -28234,8 +28234,8 @@ $RefreshReg$(_c, "Skills");
   window.$RefreshSig$ = prevRefreshSig;
 }
 },{"./container4.module.scss":"fOSlZ","../../public/Experience.png":"5j6kC","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","react/jsx-dev-runtime":"iTorj"}],"fOSlZ":[function(require,module,exports) {
-module.exports["container"] = `eOv9ja_container`;
 module.exports["about"] = `eOv9ja_about`;
+module.exports["container"] = `eOv9ja_container`;
 
 },{}],"5j6kC":[function(require,module,exports) {
 module.exports = require("feef17f54f2248b5").getBundleURL("byUka") + "Experience.fbd8e4ea.png" + "?" + Date.now();
@@ -28462,13 +28462,13 @@ $RefreshReg$(_c, "Portfolio");
   window.$RefreshSig$ = prevRefreshSig;
 }
 },{"./container5.module.scss":"eruWB","../../public/screenshot.png":"7tm7z","../../public/screenshot1.png":"lUjSF","../../public/click.png":"jXL8r","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","react/jsx-dev-runtime":"iTorj"}],"eruWB":[function(require,module,exports) {
-module.exports["clicks"] = `DSEMpq_clicks`;
-module.exports["textContainer"] = `DSEMpq_textContainer`;
-module.exports["left"] = `DSEMpq_left`;
-module.exports["right"] = `DSEMpq_right`;
-module.exports["container"] = `DSEMpq_container`;
-module.exports["backgroundRadial"] = `DSEMpq_backgroundRadial`;
 module.exports["text"] = `DSEMpq_text`;
+module.exports["textContainer"] = `DSEMpq_textContainer`;
+module.exports["backgroundRadial"] = `DSEMpq_backgroundRadial`;
+module.exports["right"] = `DSEMpq_right`;
+module.exports["left"] = `DSEMpq_left`;
+module.exports["clicks"] = `DSEMpq_clicks`;
+module.exports["container"] = `DSEMpq_container`;
 module.exports["imgContainer"] = `DSEMpq_imgContainer`;
 
 },{}],"7tm7z":[function(require,module,exports) {
