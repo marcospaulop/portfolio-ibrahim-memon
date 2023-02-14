@@ -1,0 +1,56 @@
+#about {
+  margin-top: 0.438rem;
+  h2 {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 3.125rem;
+    line-height: 5.625rem;
+    letter-spacing: 0.02em;
+  }
+  h3 {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.313rem;
+    line-height: 2.375rem;
+    letter-spacing: 0.02em;
+  }
+  h4 {
+    max-width: 50rem;
+    margin-top: 4rem;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.375rem;
+    line-height: 2.5rem;
+    letter-spacing: 0.02em;
+  }
+}
+
+.facebook {
+  color: #1877f2;
+}
+
+.icon {
+  height: 16px;
+  transform: translate(0.05rem, 0.05rem);
+}
+
+.textoDigitado {
+  overflow: hidden;
+  white-space: nowrap;
+  width: 42.125rem;
+
+  max-width: fit-content;
+  border-right: 0.25rem solid #fff;
+  line-height: 0.125rem;
+
+  animation: animacaoCursorTexto 1s infinite normal;
+
+  @keyframes animacaoCursorTexto {
+    from {
+      border-right-color: #fff;
+    }
+    to {
+      border-right-color: transparent;
+    }
+  }
+}

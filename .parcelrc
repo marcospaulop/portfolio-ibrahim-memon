@@ -1,8 +1,8 @@
 {
-  "extends": "@company/parcel-config",
-  "options": {
-    "@parcel/transformer-sass": {
-      "errorRecovery": true
-    }
+  "extends": "@parcel/config-default",
+  "transformers": {
+    "components/*module.scss": [
+      "@parcel/transformer-sass"
+    ]
   }
 }
