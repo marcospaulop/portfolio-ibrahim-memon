@@ -13,7 +13,6 @@
     "babel-preset-react-app": "^10.0.1",
     "parcel": "^2.0.0-nightly.1246",
     "parcel-bundler": "^1.12.5",
-    "postcss": "^8.4.21",
     "postcss-import": "^15.1.0",
     "postcss-loader": "^7.0.2",
     "postcss-modules": "^6.0.0",
@@ -23,5 +22,8 @@
     "react-dom": "^18.2.0",
     "sass": "^1.58.1",
     "webpack": "^5.75.0"
+  },
+  "dependencies": {
+    "postcss": "^8.4.21"
   }
 }
