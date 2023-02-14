@@ -1,0 +1,30 @@
+.container {
+  display: flex;
+  justify-content: center;
+  width: 74rem;
+  .about {
+    padding-top: 4rem;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    width: fit-content;
+    gap: 3rem;
+
+    h3 {
+      font-style: normal;
+      font-weight: 400;
+      font-size: 1.5rem;
+      line-height: 2rem;
+      letter-spacing: 0.02em;
+    }
+    h4 {
+      font-style: normal;
+      font-weight: 400;
+      font-size: 1.063rem;
+      line-height: 2rem;
+      letter-spacing: 0.02em;
+    }
+  }
+}
