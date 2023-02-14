@@ -1,4 +1,5 @@
 {
+  "main": "src/index.jsx",
   "scripts": {
     "start": "parcel",
     "build": "parcel build src/index.html"
