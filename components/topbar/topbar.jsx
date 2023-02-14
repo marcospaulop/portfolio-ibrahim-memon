@@ -4,11 +4,11 @@ import {} from 'react'
 
 export function Topbar() {
   const Scroll = (to) => {
-    var barraSuperior = document.querySelector('#topbar')?.offsetHeight
-    var posicaoElementoAlvo = document.querySelector(to)?.offsetTop
+    var topbarHeight = document.querySelector('#topbar')?.offsetHeight
+    var targetPosition = document.querySelector(to)?.offsetTop
 
     window.scroll({
-      top: posicaoElementoAlvo - barraSuperior - 15,
+      top: targetPosition - topbarHeight - 15,
       behavior: 'smooth',
     })
   }
