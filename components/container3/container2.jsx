@@ -19,7 +19,7 @@ export function Experience() {
                 Take your client onboard seamlessly by our amazing tool of
                 digital onboard process.
               </h5>
-              <a href="/posts/cib">Learn More</a>
+              <a href="">Learn More</a>
             </div>
           </div>
         </li>
@@ -32,7 +32,7 @@ export function Experience() {
                 Take your client onboard seamlessly by our amazing tool of
                 digital onboard process.
               </h5>
-              <a href="/posts/cib">Learn More</a>
+              <a href="">Learn More</a>
             </div>
           </div>
         </li>
@@ -45,7 +45,7 @@ export function Experience() {
                 Take your client onboard seamlessly by our amazing tool of
                 digital onboard process.
               </h5>
-              <a href="/posts/cib">Learn More</a>
+              <a href="">Learn More</a>
             </div>
           </div>
         </li>
@@ -58,7 +58,7 @@ export function Experience() {
                 Take your client onboard seamlessly by our amazing tool of
                 digital onboard process.
               </h5>
-              <a href="/posts/cib">Learn More</a>
+              <a href="">Learn More</a>
             </div>
           </div>
         </li>

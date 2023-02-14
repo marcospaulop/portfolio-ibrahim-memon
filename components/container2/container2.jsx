@@ -2,7 +2,7 @@ import s from './container2.module.scss'
 
 export function About() {
   return (
-    <div id={s.about}>
+    <div className={s.about}>
       <h2 className={s.textoDigitado}>I'm a Software Engineer.</h2>
       <h3>
         Currently, I'm a Software Engineer at{' '}

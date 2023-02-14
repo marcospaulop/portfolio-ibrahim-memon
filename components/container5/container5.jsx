@@ -6,7 +6,7 @@ import clicks from '../../public/click.png'
 
 export function Portfolio() {
   return (
-    <div className={s.container}>
+    <div className={s.container} id="lab">
       <div className={s.left}>
         <div className={s.textContainer}>
           <h4>Featured Project</h4>

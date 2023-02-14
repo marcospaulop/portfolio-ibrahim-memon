@@ -3,7 +3,7 @@ import experience from '../../public/Experience.png'
 
 export function Skills() {
   return (
-    <div className={s.container}>
+    <div className={s.container} id="about">
       <div className={s.about}>
         <div>
           <h3>
