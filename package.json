@@ -11,12 +11,8 @@
     "@parcel/transformer-sass": "^2.8.3",
     "babel-loader": "^9.1.2",
     "babel-preset-react-app": "^10.0.1",
-    "parcel": "^2.0.0-nightly.1246",
+    "parcel": "^2.8.3",
     "parcel-bundler": "^1.12.5",
-    "postcss-import": "^15.1.0",
-    "postcss-loader": "^7.0.2",
-    "postcss-modules": "^6.0.0",
-    "postcss-scss": "^4.0.6",
     "process": "^0.11.10",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -24,6 +20,6 @@
     "webpack": "^5.75.0"
   },
   "dependencies": {
-    "postcss": "^8.4.21"
+    "babel-plugin-transform-scss": "^1.1.0"
   }
 }

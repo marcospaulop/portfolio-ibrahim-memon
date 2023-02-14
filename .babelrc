@@ -8,21 +8,5 @@
       }
     ]
   ],
-  "plugins": [
-    [
-      "react-css-modules",
-      {
-        "generateScopedName": "[path]__[name]__[local]__[hash:base64:5]",
-        "handleMissingStyleName": "throw",
-        "filetypes": {
-          ".scss": {
-            "syntax": "postcss-scss"
-          },
-          ".sass": {
-            "syntax": "postcss-sass"
-          }
-        }
-      }
-    ]
-  ]
+  "plugins": ["babel-plugin-transform-scss"]
 }
