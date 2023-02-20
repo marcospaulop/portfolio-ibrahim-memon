@@ -10,8 +10,8 @@ export function Presentation() {
       <div className={s.text}>
         <h4 className={s.text1}>
           <svg
-            width="79"
-            height="48"
+            width="4.938rem"
+            height="3rem"
             viewBox="0 0 79 48"
             fill="none"
             xmlns="http://www.w3.org/2000/svg"
@@ -37,8 +37,8 @@ export function Presentation() {
           by its{' '}
           <strong>
             <svg
-              width="189"
-              height="61"
+              width="11.813rem"
+              height="3.813rem"
               viewBox="0 0 189 61"
               fill="none"
               xmlns="http://www.w3.org/2000/svg"

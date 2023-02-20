@@ -5,6 +5,10 @@
   scroll-behavior: smooth;
 }
 
+html {
+  font-size: min(16px, 1vw);
+}
+
 .container {
   display: flex;
   flex-direction: column;

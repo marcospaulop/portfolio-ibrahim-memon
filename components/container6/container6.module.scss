@@ -1,21 +1,20 @@
 .container {
   margin-top: 12rem;
-  padding-bottom: 220px;
+  padding-bottom: 13.75rem;
 
   h2 {
     font-style: normal;
     font-weight: 400;
-    font-size: 25px;
-    line-height: 45px;
+    font-size: 1.563rem;
   }
 
   h4 {
-    margin-top: 73px;
+    margin-top: 4.563rem;
 
     font-style: normal;
     font-weight: 400;
-    font-size: 15px;
-    line-height: 27px;
+    font-size: 0.938rem;
+    line-height: 1.688rem;
   }
 
   a {
@@ -26,9 +25,9 @@
   ul {
     display: flex;
     flex-direction: row;
-    margin-top: 31px;
+    margin-top: 1.938rem;
 
-    gap: 27px;
+    gap: 1.688rem;
     list-style: none;
   }
 }

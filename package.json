@@ -3,7 +3,7 @@
   "source": "src/index.html",
   "license": "Unlicense",
   "scripts": {
-    "start": "parcel",
+    "dev": "parcel",
     "build": "parcel build src/index.html"
   },
   "devDependencies": {
