@@ -8,6 +8,10 @@
   justify-content: center;
   height: 30rem;
 
+  img {
+    max-height: 18rem;
+  }
+
   transform: translateX(-9rem);
 
   .text {
